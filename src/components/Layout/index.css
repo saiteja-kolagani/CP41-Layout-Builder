@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.layout-bg {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-block: 20px;
+  margin: auto;
+  min-height: 70vh;
+  margin-block: 20px;
+}

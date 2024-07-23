@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.header-bg {
+  background-color: #cbd5e1;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  margin-block: 5px;
+}
+
+.header-heading {
+  font-size: 24px;
+  color: #475569;
+}

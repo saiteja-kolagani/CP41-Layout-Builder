@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.body-bg {
+  margin-block: 5px;
+  display: flex;
+  justify-content: center;
+}
+.left-navbar {
+  width: 300px;
+  height: 350px;
+  margin-right: 4px;
+}
+.right-navbar {
+  width: 300px;
+  margin-left: 4px;
+}
+.content-box {
+  width: 400px;
+}
+.box {
+  padding-inline: 20px;
+  background-color: #e2e8f0;
+}
+
+h2 {
+  font-size: 20px;
+  color: #475569;
+}

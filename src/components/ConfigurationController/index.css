@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.configuration-controller-bg {
+  background-color: #475569;
+  padding-inline: 30px;
+  padding-block: 10px;
+  color: #f1f5f9;
+}
+.checkbox-label {
+  margin-left: 6px;
+}

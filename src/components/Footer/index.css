@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.footer-bg {
+  background-color: #cbd5e1;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  margin-block: 5px;
+}
+
+.footer-heading {
+  font-size: 24px;
+  color: #475569;
+}
